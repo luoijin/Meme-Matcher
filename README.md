@@ -13,7 +13,7 @@ Meme Matcher uses [MediaPipe](https://developers.google.com/mediapipe) face and 
 
 <br>
 
-[![Total Downloads](https://img.shields.io/github/downloads/luoijin/Meme-matcher/total?style=for-the-badge&logo=github&logoColor=7C3AED&label=TOTAL%20DOWNLOADS&labelColor=0f172a&color=7C3AED)](https://github.com/luoijin/Meme-matcher/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/luoijin/Meme-matcher/total?style=for-the-badge&logo=github&logoColor=7C3AED&label=TOTAL%20DOWNLOADS&labelColor=0f172a&color=7C3AED&v=1)](https://github.com/luoijin/Meme-matcher/releases)
 
 ## How it works
 
